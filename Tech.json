@@ -1,0 +1,121 @@
+{
+  "LearnTech": [
+    {
+      "Topic": "Computer Science",
+      "List": [
+        {
+          "Title": "Computers and how it works - 01 to 13",
+          "Url": "https://homepage.cs.uri.edu/faculty/wolfe/book/Readings/Reading01.htm"
+        },
+        {
+          "Title": "CrashCourse - crash course computer science",
+          "Url": "https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo"
+        },
+        {
+          "Title": "What every programmer should know about memory",
+          "Url": "https://akkadia.org/drepper/cpumemory.pdf"
+        },
+        {
+          "Title": "The 10 Operating System Concepts Software Developers Need to Remember",
+          "Url": "https://medium.com/cracking-the-data-science-interview/the-10-operating-system-concepts-software-developers-need-to-remember-480d0734d710"
+        },
+        {
+          "Title": "The-4GB-Windows-Memory-Limit-What-does-it-really-mean",
+          "Url": "https://www.brianmadden.com/opinion/The-4GB-Windows-Memory-Limit-What-does-it-really-mean"
+        }
+      ]
+    },
+    {
+      "Topic": "JS",
+      "List": [
+        {
+          "Title": "Javascript - Understanding the Weird Parts  - first 3.5 hours",
+          "Url": "https://www.youtube.com/watch?v=Bv_5Zv5c-Ts"
+        },		
+        {
+          "Title": "Javascript - Understanding the Weird Parts - Code And tricks - most",
+          "Url": "https://www.youtube.com/channel/UC9jyuP0MXXvdtmWbe9DB1vw/videos?sort=da&view=0&flow=grid"
+        },
+        {
+          "Title": "Javascript - Understanding the Weird Parts - Rudrakshi TeleFilms-remaining",
+          "Url": "https://www.youtube.com/channel/UCAL62Arh2ICqDSN5qaBOjlg/videos?view=0&flow=grid&sort=da"
+        },
+        {
+          "Title": "Learn Javascript Design Patterns",
+          "Url": "https://addyosmani.com/resources/essentialjsdesignpatterns/book/#modulepatternjavascript"
+        }
+      ]
+    },
+    {
+      "Topic": "AngularJS",
+      "List": [
+        {
+          "Title": "angular1 By Anthony Alicea - Rudrakshi TeleFilms",
+          "Url": "https://www.youtube.com/channel/UCAL62Arh2ICqDSN5qaBOjlg/videos?view=0&flow=grid&sort=da"
+        },
+        {
+          "Title": "angular1-styleguide By JohnPapa",
+          "Url": "https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md"
+        },
+        {
+          "Title": "angular2-styleguide By JohnPapa",
+          "Url": "https://angular.io/guide/styleguide"
+        }
+      ]
+    },
+    {
+      "Topic": "ASP.NET",
+      "List": [
+        {
+          "Title": "Understanding Repository and UOW Pattern - Gradually step by step",
+          "Url": "https://www.codeproject.com/Articles/770156/Understanding-Repository-and-Unit-of-Work-Pattern"
+        },
+        {
+          "Title": ".Net Internals 10 Part series",
+          "Url": "https://www.codejourney.net/2018/07/net-internals-01-basics-of-memory-structure/#disqus_thread"
+        },
+        {
+          "Title": ".Net memory allocations and performance",
+          "Url": "https://www.youtube.com/watch?v=aylUPfOVM90"
+        },
+        {
+          "Title": "A Low Level Look at ASP.NET Architecture",
+          "Url": "https://www.codemag.com/article/0511061/A-Low-Level-Look-at-ASP.NET-Architecture"
+        },
+        {
+          "Title": "ASP.NET Application Life Cycle Overview for IIS 7.0",
+          "Url": "https://docs.microsoft.com/en-us/previous-versions/bb470252(v=vs.140)"
+        },
+        {
+          "Title": "ASP.NET Application Life Cycle",
+          "Url": "https://www.tutorialspoint.com/asp.net/asp.net_life_cycle.htm"
+        },
+        {
+          "Title": "Under the hood of .NET Memory Mgmt",
+          "Url": "https://www.red-gate.com/simple-talk/wp-content/uploads/RedGateBooks/ChrisFarrell/Under_the_Hood_of_NET_Management.pdf"
+        },
+        {
+          "Title": "ASP.NET Application and Page Life Cycle",
+          "Url": "https://www.codeproject.com/Articles/73728/ASP-NET-Application-and-Page-Life-Cycle-2"
+        }
+      ]
+    },
+    {
+      "Topic": "C#",
+      "List": [
+        {
+          "Title": "A Low Level Look at ASP.NET Architecture",
+          "Url": "https://www.codemag.com/article/0511061/A-Low-Level-Look-at-ASP.NET-Architecture"
+        },
+        {
+          "Title": "C# DataTypes",
+          "Url": "https://www.youtube.com/watch?v=HY8YIU_xCCA&list=PLRwVmtr-pp07XP8UBiUJ0cyORVCmCgkdA&index=2"
+        },
+        {
+          "Title": "C# Arrays",
+          "Url": "https://www.youtube.com/watch?v=Shl7TsNMGSE&list=PLRwVmtr-pp07QlmssL4igw1rnrttJXerL"
+        }
+      ]
+    }
+  ]
+}
