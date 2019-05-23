@@ -76,6 +76,10 @@
       "Topic": "ASP.NET",
       "List": [
         {
+          "Title": "learn .net and other technologies from msft",
+          "Url": "https://docs.microsoft.com/en-us/"
+        },
+        {
           "Title": "learn .net technologies from msft",
           "Url": "https://dotnet.microsoft.com/learn/web"
         },
