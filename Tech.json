@@ -76,6 +76,10 @@
       "Topic": "ASP.NET",
       "List": [
         {
+          "Title": "learn .net technologies from msft",
+          "Url": "https://dotnet.microsoft.com/learn/web"
+        },
+        {
           "Title": "Understanding Repository and UOW Pattern - Gradually step by step",
           "Url": "https://www.codeproject.com/Articles/770156/Understanding-Repository-and-Unit-of-Work-Pattern"
         },
