@@ -12,6 +12,16 @@
     {
       "Topic": "Computer Science",
       "List": [
+        
+        {
+          "Title": "Operating Systems -nptel",
+          "Url": "https://www.youtube.com/watch?v=ZDSzcs6NXx8&list=PL3-wYxbt4yCjpcfUDz-TgD_ainZ2K3MUZ&index=3"
+        },        
+        {
+          "Title": " Operating Systems - Barbara Hecker",
+          "Url": "https://www.youtube.com/watch?v=OJy9C5Gn4Sc&list=PL53FD88B185F9796F&index=3&t=0s"
+        },
+        
         {
           "Title": "Computers and how it works - 01 to 13",
           "Url": "https://homepage.cs.uri.edu/faculty/wolfe/book/Readings/Reading01.htm"
